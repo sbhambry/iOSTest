@@ -1,1 +1,3 @@
 Some new text for chapter 2 
+adding text for side-branch change
+New TEXT Side branch change
